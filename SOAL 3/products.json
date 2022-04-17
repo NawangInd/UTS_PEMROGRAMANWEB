@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "gambar": "PRODUK/model1.png",
+    "nama": "Gramma Dress",
+    "harga": "IDR 299.000",
+    "ukuran": "All Size",
+    "contact": "<p> Email:EN-SHOP.com </p> <p> Phone:08573911056 </p> <p>Address:Jl.Busan No.13 </p>"
+  },
+  {
+    "id": 2,
+    "gambar": "PRODUK/model2.png",
+    "nama": "Azuri Dress",
+    "harga": "IDR 278.000",
+    "ukuran": "All Size",
+    "contact": "<p> Email:EN-SHOP.com </p> <p> Phone:08573911056 </p> <p>Address:Jl.Busan No.13 </p>"
+  },
+  {
+    "id": 3,
+    "gambar": "PRODUK/model3.png",
+    "nama": "Netta Dress",
+    "harga": "IDR 289.000",
+    "ukuran": "All Size",
+    "contact": "<p> Email:EN-SHOP.com </p> <p> Phone:08573911056 </p> <p>Address:Jl.Busan No.13 </p>"
+  },
+  {
+    "id": 4,
+    "gambar": "PRODUK/model4.png",
+    "nama": "Cheveria Dress",
+    "harga": "IDR 299.000",
+    "ukuran": "All Size",
+    "contact": "<p> Email:EN-SHOP.com </p> <p> Phone:08573911056 </p> <p>Address:Jl.Busan No.13 </p>"
+  },
+  {
+    "id": 5,
+    "gambar": "PRODUK/model5.png",
+    "nama": "Lila Dress",
+    "harga": "IDR 268.000",
+    "ukuran": "All Size",
+    "contact": "<p> Email:EN-SHOP.com </p> <p> Phone:08573911056 </p> <p>Address:Jl.Busan No.13 </p>"
+  },
+  {
+    "id": 6,
+    "gambar": "PRODUK/model6.png",
+    "nama": "Chimb Dress",
+    "harga": "IDR 277.000",
+    "ukuran": "All Size",
+    "contact": "<p> Email:EN-SHOP.com </p> <p> Phone:08573911056 </p> <p>Address:Jl.Busan No.13 </p>"
+  }
+]
